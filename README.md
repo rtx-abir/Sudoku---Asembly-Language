@@ -1,4 +1,4 @@
-Sudoku project done in x86 .TASM using DOSBOX
+# Sudoku project done in x86 .TASM using DOSBOX
 
 This project was done as part of my course requirement for CSC 21000: Assembly Language
 
